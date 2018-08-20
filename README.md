@@ -1,2 +1,3 @@
 # java_algs
-some java algortihms
+
+a collection java algortihms 
