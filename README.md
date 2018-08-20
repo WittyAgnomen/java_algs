@@ -5,4 +5,4 @@ a collection java algortihms
 - brutefroce
 - euclid
 - kmp
-- 
+- tbd
