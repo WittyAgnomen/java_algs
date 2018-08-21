@@ -14,9 +14,10 @@ public class MegaBytesConverter {
         else {
             megaBytes = kiloBytes/conversion;
             remainder = kiloBytes % conversion;
-            a = Integer.toString(kiloBytes) + " KB = " + Integer.toString(megaBytes) + " MB and " + Integer.toString(remainder) + "KB";
+            a = Integer.toString(kiloBytes) + " KB = " + Integer.toString(megaBytes) + " MB and " + Integer.toString(remainder) + " KB";
             System.out.println(a);
         }
     }
 
 }
+
